@@ -5,7 +5,8 @@ The following are the 6 high level stages of a typical Linux boot process.
 **STEPS**
 (/images/logo.png)
 Format: ![Alt Text](http://crybit.com/wp-content/uploads/2017/01/Linux-booting-process.png)
-*BIOS*
+
+**BIOS**
 BIOS stands for Basic Input/Output System
 Performs some system integrity checks
 Searches, loads, and executes the boot loader program.

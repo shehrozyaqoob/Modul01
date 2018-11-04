@@ -1,8 +1,8 @@
-A PC BIOS generally adds additional constraints for disk partitioning. There is a limit to how many ``primary'' and ``logical'' partitions
+A PC BIOS generally adds additional constraints for disk partitioning. There is a limit to how many primary and logical partitions
 a drive can contain. Additionally, there are limits to where on the drive the BIOS looks for boot information. This section will include 
 a brief overview to help you plan most situations. 
-``Primary'' partitions are the original partitioning scheme for PC hard disks. However, there can be only four of them. To get past this 
-limitation, ``extended'' or ``logical'' partitions were invented. By setting one of your primary partitions as an extended partition, you
+Primary'' partitions are the original partitioning scheme for PC hard disks. However, there can be only four of them. To get past this 
+limitation, extended or logical partitions were invented. By setting one of your primary partitions as an extended partition, you
 can subdivide all the space allocated to that partition into logical partitions. The number of logical partitions you can create is much 
 less limited than the number of primary partitions you can create; however, you can have only one extended partition per drive. 
 Linux limits the number of partitions per drive to 15 partitions for SCSI drives (3 usable primary partitions, 12 logical partitions), and

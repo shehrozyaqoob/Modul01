@@ -1,9 +1,10 @@
 Press the power button on your system, and after few moments you see the Linux login prompt.
 Have you ever wondered what happens behind the scenes from the time you press the power button until the Linux login prompt appears?
 The following are the 6 high level stages of a typical Linux boot process.
+
 **STEPS**
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.bing.com/images/search?view=detailV2&ccid=z6Rd78Uy&id=E2952D18AA48B7F686352313EE4CE2992CA865B1&thid=OIP.z6Rd78UyXN-Swz8_m0YrSAHaFK&mediaurl=https%3a%2f%2fcrybit.com%2fwp-content%2fuploads%2f2017%2f01%2fLinux-booting-process.png&exph=484&expw=694&q=startup+process+linux&simid=608008329170649248&selectedIndex=13&ajaxhist=0)
+Format: ![Alt Text](http://crybit.com/wp-content/uploads/2017/01/Linux-booting-process.png)
 *BIOS*
 BIOS stands for Basic Input/Output System
 Performs some system integrity checks

@@ -1,4 +1,4 @@
-**Index**
+****Index****
 
 
 Deberes probar VirtualBox y Gandalf.
@@ -103,13 +103,20 @@ En CPU
 Repaso particiones
 
 Sistema Operativo Linux
-Kernel
-Run level
-XII/Wayland
-Window Manager
-Display Manager (GDM y Lightdm)
-Escritorio
-CLI, GUI i TUI
+
+  -Kernel
+
+  -Run level
+
+  -XII/Wayland
+
+  -Window Manager
+
+  -Display Manager (GDM y Lightdm)
+
+  -Escritorio
+
+  -CLI, GUI i TUI
 
 Instalar Openbox
 
